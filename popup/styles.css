@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+
+input {
+    font-size: 15px;
+    padding: 1.rem;
+}

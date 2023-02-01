@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Selection Finder",
+    "version": "1.0",
+    "description": "Find text within a selection in a webpage",
+    "icons": {
+        "48": "icons/find-48.png"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_icon": "icons/find-36.png",
+        "default_title": "Selection Finder",
+        "default_popup": "popup/finder.html"
+    }
+}
